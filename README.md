@@ -3,6 +3,7 @@ Programing Language :Python.
 Libraries Used : Beautiful Soup, Requests. 
 1) This project will show you how to create a Python script to get the weather forecast.
 2) The script simply asks the user to enter the city name and in return, it displays the day, time, weather status and temperature.
+
 Project Information :-
 Installing the BeautifulSoup package in Python is the first step towards obtaining the current weather conditions of any place. Using the pip command, you can quickly install this Python library on your computer:
 
