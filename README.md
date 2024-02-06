@@ -5,6 +5,7 @@ Libraries Used : Beautiful Soup, Requests.
 2) The script simply asks the user to enter the city name and in return, it displays the day, time, weather status and temperature.
 Project Information :-
 Installing the BeautifulSoup package in Python is the first step towards obtaining the current weather conditions of any place. Using the pip command, you can quickly install this Python library on your computer:
+
 pip install beautifulsoup4
 
 You may now begin working on this assignment by importing the required Python libraries after installing this library. Following the import of the libraries, we must use Google to scrape a city's weather updates. Here's how to use Python to accomplish it:
